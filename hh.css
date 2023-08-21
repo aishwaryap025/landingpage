@@ -1,0 +1,12 @@
+/* styles.css */
+.background-image {
+    font-family: Arial, sans-serif;
+   
+    background-size: contain; /* Scale the image to cover the entire background */
+    background-position: center center;
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    margin: 20px;
+    padding: 0;
+}
+  
+
