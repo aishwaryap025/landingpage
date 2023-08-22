@@ -2,7 +2,7 @@ let model;
 
 function preload() {
   // Load the 3D model file
-  model = loadModel('path/to/your/model.obj', true);
+  model = loadModel('', true);
 }
 
 function setup() {
